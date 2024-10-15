@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
     puts("What's happening?");
-    puts("Creation of new branch!");
+    puts("Hello from main branch!");
     puts("Hello world!");
 }
